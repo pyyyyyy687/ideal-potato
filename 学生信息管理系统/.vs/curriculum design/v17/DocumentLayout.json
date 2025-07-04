@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\visitorlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|solutionrelative:visitorlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\visitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|solutionrelative:visitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\managerlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|solutionrelative:managerlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\studentlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|solutionrelative:studentlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|solutionrelative:student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|solutionrelative:manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A3F1A-7656-4539-B9CF-924A504E53BF}|curriculum design.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "visitorlist.cpp",
+              "DocumentMoniker": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\visitorlist.cpp",
+              "RelativeDocumentMoniker": "visitorlist.cpp",
+              "ToolTip": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\visitorlist.cpp",
+              "RelativeToolTip": "visitorlist.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T06:31:36.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "visitor.cpp",
+              "DocumentMoniker": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\visitor.cpp",
+              "RelativeDocumentMoniker": "visitor.cpp",
+              "ToolTip": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\visitor.cpp",
+              "RelativeToolTip": "visitor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T06:31:34.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "studentlist.cpp",
+              "DocumentMoniker": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\studentlist.cpp",
+              "RelativeDocumentMoniker": "studentlist.cpp",
+              "ToolTip": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\studentlist.cpp",
+              "RelativeToolTip": "studentlist.cpp",
+              "ViewState": "AgIAAA0BAAAABN+Dif0swO4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T06:31:33.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.cpp",
+              "DocumentMoniker": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\student.cpp",
+              "RelativeDocumentMoniker": "student.cpp",
+              "ToolTip": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\student.cpp",
+              "RelativeToolTip": "student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T06:31:31.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "managerlist.cpp",
+              "DocumentMoniker": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\managerlist.cpp",
+              "RelativeDocumentMoniker": "managerlist.cpp",
+              "ToolTip": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\managerlist.cpp",
+              "RelativeToolTip": "managerlist.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T06:31:27.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "manager.cpp",
+              "DocumentMoniker": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\manager.cpp",
+              "RelativeDocumentMoniker": "manager.cpp",
+              "ToolTip": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\manager.cpp",
+              "RelativeToolTip": "manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T06:31:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\pan\u0027y\u0027y\\Desktop\\\u5B66\u751F\u4FE1\u606F\u7BA1\u7406\u7CFB\u7EDF\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T06:25:13.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
